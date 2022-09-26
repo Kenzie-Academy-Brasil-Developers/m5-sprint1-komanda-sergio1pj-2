@@ -168,15 +168,5 @@
         "id": 34,
         "name": "FRENCH TOAST",
         "price": 5.0
-    },
-    {
-        "name": "CHURROS DO M5",
-        "price": 5,
-        "id": 35
-    },
-    {
-        "name": "CHURROS DO M5",
-        "price": 5,
-        "id": 36
     }
 ]
