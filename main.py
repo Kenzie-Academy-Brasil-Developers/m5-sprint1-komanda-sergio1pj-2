@@ -9,8 +9,8 @@ def main():
       {"id": 20, "amount": 2},
       {"id": 21, "amount": 5},
     ]
-    print(tab_handler.create_tab(table_1))
-    print(tab_handler.create_tab(table_2))
+    print(tab_handler.calculate_tab(table_1))
+    print(tab_handler.calculate_tab(table_2))
 if __name__ == "__main__":
     main()
     
